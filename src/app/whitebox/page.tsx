@@ -46,7 +46,7 @@ const WhiteBox = () => {
                                 <FormItem>
                                     {/* <FormLabel>Message</FormLabel> */}
                                     <FormControl>
-                                        <Textarea className="bg-black placeholder:text-white/80" placeholder="Enter something you would like to put in the whitebox" {...field} />
+                                        <Textarea className="bg-black placeholder:text-white/80" placeholder="Enter something you would like  to put in the whitebox" {...field} />
                                     </FormControl>
                                     <FormMessage />
                                 </FormItem>
